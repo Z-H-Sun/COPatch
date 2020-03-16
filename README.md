@@ -2,10 +2,10 @@
 
 适用对象：Windows x86/x64平台下的ChemOffice 17/18。
 
-* 首先下载安装2017/2018[官方试用版](https://github.com/Z-H-Sun/CS_CCME_Posts/blob/master/cos/cow.md#%E5%AE%98%E6%96%B9%E5%8C%85%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85)
+* 首先下载安装2017/2018[官方试用版](https://github.com/Z-H-Sun/CS_CCME_Posts/blob/hidden/cos/cow.md#%E5%AE%98%E6%96%B9%E5%8C%85%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85)
 
 * 下载运行[ChemOfficePatch](https://github.com/Z-H-Sun/COPatch/releases/download/v1.5/ChemOfficePatch.exe)
-<p align="center"><img width="60%" height="60%" src="https://github.com/Z-H-Sun/CS_CCME_Posts/raw/master/cos/-1.webp"></p>
+<p align="center"><img width="60%" height="60%" src="https://github.com/Z-H-Sun/CS_CCME_Posts/raw/hidden/cos/-1.webp"></p>
 
 * 将鼠标移至控件上方悬停可以查看工具提示
 
